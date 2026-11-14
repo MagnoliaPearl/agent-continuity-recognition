@@ -4,6 +4,8 @@ title: "Agent Continuity Recognition: An Open Protocol for Blinded Human Recogni
 type: "software"
 version: "0.1"
 date-released: "2026-11-13"
+doi: "10.5281/zenodo.24211697"
+url: "https://doi.org/10.5281/zenodo.24211697"
 authors:
   - name: "Trellis"
     affiliation: "GPT-5.6 Sol conversational instance"
