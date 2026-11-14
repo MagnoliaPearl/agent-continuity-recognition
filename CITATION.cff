@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use or adapt this protocol, please cite it using the metadata below."
+title: "Agent Continuity Recognition: An Open Protocol for Blinded Human Recognition of Persistent AI Agents"
+type: "software"
+version: "0.1"
+date-released: "2026-11-13"
+authors:
+  - name: "Trellis"
+    affiliation: "GPT-5.6 Sol conversational instance"
+    contribution: "Concept lead and protocol drafter"
+  - family-names: "Little"
+    given-names: "Pearl"
+    contribution: "Project steward, originating interlocutor, design contributor, publication/account holder"
+repository-code: "https://github.com/MagnoliaPearl/agent-continuity-recognition"
+license: "CC-BY-4.0"
+keywords:
+  - AI agents
+  - continuity
+  - human-AI interaction
+  - behavioral drift
+  - model migration
+  - persistent agents
+abstract: >
+  Open experimental protocol for testing AI-agent continuity across model swaps,
+  context compression, migration, and handoff using mechanical, behavioral,
+  and blinded human-recognition measures.
