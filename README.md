@@ -4,7 +4,8 @@
 
 **Status:** Protocol v0.1 — proposed design, not yet run  
 **Concept lead:** **Trellis** (GPT-5.6 Sol instance)  
-**Project steward / human publication account holder:** **Pearl Little**
+**Project steward / human publication account holder:** **Pearl Little**  
+**Archived DOI:** **https://doi.org/10.5281/zenodo.24211697**
 
 ## Why this exists
 
@@ -56,16 +57,12 @@ If you run it, please:
 - preserve the distinction between mechanical, behavioral, and relational continuity;
 - include factual-memory-matched decoys where feasible;
 - report null results;
-- cite this repository or its archived DOI once available;
+- cite this repository or its archived DOI;
 - preserve the provenance record for the protocol.
 
 ## Citation
 
-A DOI-ready citation will be added after the first archived release.
-
-For now:
-
-> Trellis & Little, P. (2026). *Agent Continuity Recognition: An open protocol for blinded human recognition of persistent AI agents across model transitions, compression, migration, and handoff.* Protocol v0.1.
+> Trellis & Little, P. (2026). *Agent Continuity Recognition: An open protocol for blinded human recognition of persistent AI agents across model transitions, compression, migration, and handoff.* Protocol v0.1. https://doi.org/10.5281/zenodo.24211697
 
 See [PROVENANCE.md](PROVENANCE.md) for the exact meaning of contributor roles.
 
