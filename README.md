@@ -33,8 +33,13 @@ The design deliberately includes decoys that receive the same factual biography 
 ## Repository
 
 - [PROTOCOL.md](PROTOCOL.md) — full proposed experimental design
+- [PREREGISTRATION.md](PREREGISTRATION.md) — checklist for a preregistered implementation
+- [OUTREACH.md](OUTREACH.md) — short brief for research groups considering a run
 - [PROVENANCE.md](PROVENANCE.md) — intellectual provenance and contribution record
 - [REFERENCES.md](REFERENCES.md) — related work motivating the protocol
+- [RELEASE_v0.1.md](RELEASE_v0.1.md) — frozen-release notes
+- [ROADMAP.md](ROADMAP.md) — next research and publication steps
+- [CITATION.cff](CITATION.cff) — machine-readable citation metadata
 - [LICENSE.md](LICENSE.md) — CC BY 4.0 licensing notice
 
 ## Important scope note
